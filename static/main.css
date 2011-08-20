@@ -1,0 +1,146 @@
+// Copyright (C) 2011 by Bill Napier (napier@pobox.com)
+//
+// Licensed under the Apache License, Version 2.0 (the "License"); you
+// may not use this file except in compliance with the License.  You
+// may obtain a copy of the License at:
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+// implied.  See the License for the specific language governing
+// permissions and limitations under the License.
+
+body {
+  margin:0;
+  padding:0;
+  color:#000;
+  background:#a7a09a;
+}
+
+#wrap {
+  width:800px;
+  margin:0 auto;
+  background:#fff;
+}
+
+#header {
+  padding:10px;
+  border-bottom: 1px solid black;
+}
+
+#main {
+  float: right;
+  width:550px;
+  padding-top: 10px;
+  border-left: 1px solid black;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+
+#left {
+  float: left;
+  width:190px;
+  padding:10px;
+  height: 100%;
+}
+
+#footer {
+  clear: both;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid black
+}
+
+* html #footer {
+  height:1px;s
+}
+
+.logo { 
+  float: left;
+}
+
+div#header div.title { 
+  font-size: xx-large;
+  vertical-align: text-top;
+  text-align: center;
+  position: relative;
+  left: 1em;
+}
+
+.subtitle { 
+  font-size: medium;
+  font-style: italic;
+  vertical-align: text-top;
+  text-align: center;
+  position: relative;
+  left: 2em;
+}
+
+.story_thumb { 
+  float: left;
+  padding-right: 0.5em;
+  padding-top: 0.5em;
+}
+
+div.story {  
+  padding-bottom: 1em;
+}
+
+.story_title { 
+  font-size: large;
+  font-weight: bold;
+}
+
+.story_teaser { 
+  padding-top: 0.5em;
+}
+
+div.story_date { 
+  font-size: medium;
+}
+
+div.story_date .value { 
+  font-style: italic;
+}
+
+div.story_date .title { 
+  font-weight: bold;
+}
+
+div.story_topic { 
+  font-size: medium;
+}
+
+div.story_topic .title { 
+  font-weight: bold;
+}
+
+div.story_topic .value { 
+  font-style: italic;
+}
+
+div.story_column { 
+  font-size: medium;
+}
+
+div.story_column .title { 
+  font-weight: bold;
+}
+
+div.story_column .value { 
+  font-style: italic;
+}
+
+div.story_collection { 
+  font-size: medium;
+}
+
+div.story_collection .title { 
+  font-weight: bold;
+}
+
+div.story_collection .value { 
+  font-style: italic;
+}

@@ -1,0 +1,28 @@
+{% include "closure_header.html" %}
+<style>
+div#left h2 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  cursor: pointer;
+  border-bottom: solid 2px black;
+}
+
+div#left div {
+  margin-top: 0px;
+  padding: 3px;
+  text-align: justify;
+  overflow: hidden;
+}
+
+</style>
+{% include "header_end.html" %}
+<div id="left">
+{% include "left_snippet.html" %}
+</div>
+<div id="main">
+{% for story in stories %}
+{% include "story_header_snippet.html" %}
+{% endfor %}
+</div>
+<script src="static/main{{js_compiled}}.js"></script>
+{% include "footer.html" %}

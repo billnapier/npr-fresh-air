@@ -1,0 +1,27 @@
+<div class="story">
+<div class="story_title"><a href="/story?id={{story.id}}">{{ story.title }}</a></div>
+{% if story.has_thumbnail %}
+<img src="{{story.preferred_thumbnail}}" class="story_thumb">
+{% endif %}
+<div class="story_date"><span class="title">Published: </span><span class="value">{{ story.publish_date|date:"M d Y" }}</span></div>
+<div class="story_topic"><span class="title">Topics: </span><span class="value">
+{% for topic in story.all_topics %}
+{{topic}}
+{% if not forloop.last %}&nbsp;/&nbsp;{% endif %}
+{% endfor %}
+</span></div>
+{% if story.has_column %}
+<div class="story_column"><span class="title">Column: </span><span class="value">{{ story.column }}</span></div>
+{% endif %}
+{% if story.has_collection %}
+<div class="story_collection"><span class="title">Collection: </span><span class="value">{{ story.collection }}</span></div>
+{% endif %}
+{% if story.has_teaser %}
+<div class="story_teaser">
+{% autoescape off %}
+{{story.preferred_teaser|truncatewords_html:25}}
+{% endautoescape %}
+</div>
+{% endif %}
+<div style="clear: left"></div>
+</div>

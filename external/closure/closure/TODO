@@ -1,0 +1,6 @@
+- Work on re-parse logic for XML parser version change
+
+- Figure out how to recover from a fetch error.  It's OK to wait until
+  the next cron run to recover, but we should figure out the best way
+  to auto-recover and backfill the missed items at the end of the
+  list.

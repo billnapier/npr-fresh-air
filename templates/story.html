@@ -1,0 +1,14 @@
+{% include "header.html" %}
+    <h1>{{story.title}}</h1>
+{% if story.has_thumbnail %}
+<img src="{{story.preferred_thumbnail}}" class="thumbnail">
+{% endif %}
+{% include "share_snippet.html" %}
+<div class='metadata'>
+Story Date: <span class='date'>{{story.story_date|date:"M d Y" }}</span><br>
+Publish Date: <span class='date'>{{story.publish_date|date:"M d Y" }}</span>
+</div>
+<div class='story_body'>
+      More data would go here.
+</div>
+{% include "footer.html" %}

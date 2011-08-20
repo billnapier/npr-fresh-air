@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <story id="137378586">
+      <link type="html">http://www.npr.org/2011/06/24/137378586/class-is-dismissed-bad-teacher-is-crude-but-fun?ft=3&amp;f=13</link>
+      <link type="api">http://api.npr.org/query?id=137378586&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      <link type="short">http://n.pr/lzVRsn</link>
+      <title><![CDATA[Class Is Dismissed: 'Bad Teacher' Is Crude, But Fun]]></title>
+      <subtitle/>
+      <shortTitle/>
+      <teaser><![CDATA[How bad is this teacher? Director Jake Kasdan stuffs ineptness and inappropriateness into the lesson plan in equal measure. But critic David Edelstein says that the film's moral turpitude is also the source of its charm.]]></teaser>
+      <miniTeaser><![CDATA[Critic David Edelstein says that the film's moral turpitude is also the source of its charm.]]></miniTeaser>
+      <slug>Movie Reviews</slug>
+      <thumbnail>
+        <medium>http://media.npr.org/assets/img/2011/06/23/badteaching_sq.jpg?t=1308930266&amp;s=13</medium>
+        <large>http://media.npr.org/assets/img/2011/06/23/badteaching_sq.jpg?t=1308930266&amp;s=11</large>
+        <provider>Sony Pictures</provider>
+      </thumbnail>
+      <storyDate>Fri, 24 Jun 2011 11:00:00 -0400</storyDate>
+      <pubDate>Thu, 23 Jun 2011 17:32:00 -0400</pubDate>
+      <lastModifiedDate>Fri, 24 Jun 2011 12:11:38 -0400</lastModifiedDate>
+      <show>
+        <program id="13" code="FA">Fresh Air from WHYY</program>
+        <showDate>Fri, 24 Jun 2011 11:00:00 -0400</showDate>
+        <segNum>3</segNum>
+      </show>
+      <keywords/>
+      <priorityKeywords/>
+      <organization orgId="1" orgAbbr="NPR">
+        <name>National Public Radio</name>
+        <website>http://www.npr.org/</website>
+      </organization>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=137378586&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </transcript>
+      <parent id="125638008" type="collection">
+        <title>Fresh Air Reviews</title>
+        <link type="html">http://www.npr.org/series/125638008/fresh-air-reviews?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=125638008&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </parent>
+      <parent id="4467349" type="column" slug="true">
+        <title>Movie Reviews</title>
+        <link type="html">http://www.npr.org/series/movie-reviews/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=4467349&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </parent>
+      <parent id="1045" type="primaryTopic">
+        <title>Movies</title>
+        <link type="html">http://www.npr.org/sections/movies/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1045&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </parent>
+      <parent id="1045" type="topic">
+        <title>Movies</title>
+        <link type="html">http://www.npr.org/sections/movies/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1045&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </parent>
+      <parent id="1008" type="topic">
+        <title>Arts &amp; Life</title>
+        <link type="html">http://www.npr.org/sections/arts/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1008&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </parent>
+      <audio id="137395609" type="primary">
+        <title/>
+        <duration>309</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1137395609-c07d88.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=13</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=137395609&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=13</wm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <byline id="137379226">
+        <name personId="4473010">David Edelstein</name>
+        <link type="html">http://www.npr.org/people/4473010/david-edelstein?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=4473010&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </byline>
+      <container id="137392717">
+        <title>Watch Clips</title>
+        <introText/>
+        <colSpan>1</colSpan>
+        <displayOptions typeId="1">Hide Top</displayOptions>
+      </container>
+      <container id="137392719">
+        <title/>
+        <introText/>
+        <colSpan>1</colSpan>
+        <displayOptions typeId="2">Display Both</displayOptions>
+        <listText refId="137392402" num="1"/>
+      </container>
+      <container id="137394139">
+        <title>Read Another Review</title>
+        <introText/>
+        <colSpan>2</colSpan>
+        <displayOptions typeId="2">Display Both</displayOptions>
+        <link refId="137394135" num="1"/>
+      </container>
+      <image id="137379631" type="primary" width="200" src="http://media.npr.org/assets/img/2011/06/23/badteaching.jpg?t=1308930266&amp;s=12" hasBorder="false">
+        <title>&lt;strong&gt;&lt;/strong&gt;Middle-school "educator" Elizabeth Halsey (Cameron Diaz) favors short skirts and stilettos — and enlists her students to hold a car wash raising funds for her breast implants.</title>
+        <caption>&lt;strong&gt;&lt;/strong&gt;Middle-school "educator" Elizabeth Halsey (Cameron Diaz) favors short skirts and stilettos — and enlists her students to hold a car wash raising funds for her breast implants.</caption>
+        <link url=""/>
+        <producer>Gemma LaMana</producer>
+        <provider url="">Sony Pictures</provider>
+        <copyright/>
+        <enlargement src="http://media.npr.org/assets/img/2011/06/23/badteaching.jpg?t=1308930266">
+          <caption/>
+        </enlargement>
+        <crop type="standard" src="http://media.npr.org/assets/img/2011/06/23/badteaching.jpg?t=1308930266" height="332" width="442"/>
+        <crop type="square" src="http://media.npr.org/assets/img/2011/06/23/badteaching_sq.jpg?t=1308930266" height="310" width="310"/>
+        <crop type="wide" src="http://media.npr.org/assets/img/2011/06/23/badteaching_wide.jpg?t=1308930266" height="328" width="584"/>
+        <crop type="enlargement" src="http://media.npr.org/assets/img/2011/06/23/badteaching.jpg?t=1308930266" height="332" width="442"/>
+      </image>
+      <relatedLink id="137394135" type="internal">
+        <caption><![CDATA[ Amusing 'Bad Teacher' Needs Lesson In Likability]]></caption>
+        <link type="html">http://www.npr.org/2011/06/24/137319688/amusing-bad-teacher-needs-lesson-in-likability?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=137319688&amp;apiKey=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001</link>
+      </relatedLink>
+      <listText id="137392402" tag="p">
+        <paragraph num="1">&lt;strong&gt;Bad Teacher&lt;/strong&gt;</paragraph>
+        <paragraph num="2">&lt;ul&gt;</paragraph>
+        <paragraph num="3">&lt;li&gt;Director: Jake Kasdan&lt;/li&gt;</paragraph>
+        <paragraph num="4">&lt;li&gt;Genre: Comedy&lt;/li&gt;</paragraph>
+        <paragraph num="5">&lt;li&gt;Running Time: 92 minutes&lt;/li&gt;</paragraph>
+        <paragraph num="6">&lt;/ul&gt;</paragraph>
+        <paragraph num="7">&lt;em&gt;Rated R for sexual content, nudity, language and some drug use&lt;/em&gt;</paragraph>
+        <paragraph num="8">&lt;em&gt;With: Cameron Diaz, Justin Timberlake, Jason Segel, Lucy Punch, Phyllis Smith&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</paragraph>
+      </listText>
+      <text>
+        <paragraph num="1"><![CDATA[Bad Teacher is a raunchy comedy about a conniving alcoholic druggie middle-school teacher played by Cameron Diaz who'll do anything to get the money to buy herself some bigger breasts so she can marry rich and not have to do the job at which she's, yes, bad. How bad is she?]]></paragraph>
+        <paragraph num="2"><![CDATA[I won't give away specifics, but every scene is contrived to make you say, "That is a bad teacher" — much as another R-rated film about someone not living up to the responsibility of interacting with children, Bad Santa, made you say, "That is a bad Santa."]]></paragraph>
+        <paragraph num="3"><![CDATA[So, the movie is one broad joke on the theme of how-bad-is-she repeated over and over, and most of the early reviews have complained about its coarseness and vulgarity. My response is easily stated: Get off your high horses. Bad Teacher made me laugh harder than anything this year outside Broadway's The Book of Mormon, which is filthier and still won the Tony.]]></paragraph>
+        <paragraph num="4"><![CDATA[As Elizabeth Halsey, Cameron Diaz does not walk when she can sashay, and almost always in short, tight dresses and stiletto heels. She looks, frankly, used — dissipated, hungover, her make-up smeared, her wide mouth looking unusually lewd. She's wonderful — but then, she's often wonderful, despite recent high-profile embarrassments like Knight and Day opposite Tom Cruise mugging it up and trying too hard to be funny. Diaz doesn't need to mug. Her great big features are gorgeous and clown-like at once.]]></paragraph>
+        <paragraph num="5"><![CDATA[As Bad Teacher opens, Elizabeth is departing John Adams Middle School, where she has been teaching for a year without even learning the names of her students — a matter of crushing indifference to her given her coming marriage to a rich boy. Alas, he dumps her — or, rather, his mother insists he dump her for racking up staggering monthly credit card bills. So it's back to bad teaching.]]></paragraph>
+        <paragraph num="6"><![CDATA[On her return to the school in the fall, Elizabeth comes face to face with her opposite number played by the brilliant British actress Lucy Punch, often a sexpot in movies but here the soul of primness. To save face, Elizabeth concocts an elaborate story about catching her fiance in bed with another man — a lie that evolves the more she tells it. You can imagine. Or maybe not.]]></paragraph>
+        <paragraph num="7"><![CDATA[What Bad Teacher most reminds me of is old Bill Murray comedies like Stripes or Meatballs, but with a woman talking dirty and using everything in her arsenal to get what she wants — cheating, lying, and being incorrigibly sleazy and opportunistic in the great American degenerate movie huckster tradition. There's a Bill Murray figure here, too, a pudgy pothead gym teacher played by Jason Segel, who watches her with amusement, admiration and unconcealed lust. One thing, though: As taken as he is by her gonzo ways, he doesn't collude in her bad teaching. He thinks she should do something else. Although Elizabeth isn't punished for breaking almost every law there is, ethical and legal, she's not rewarded either. Where she ends up is very satisfying — even touching.]]></paragraph>
+        <paragraph num="8"><![CDATA[Director Jake Kasdan loves his actors and gives them room to breathe — and, in some cases, hyperventilate. Along with sterling turns by Diaz, Segel, Lucy Punch and Phyllis Smith from The Office as Elizabeth's mousy colleague, Justin Timberlake defies expectations as an insipid little bespectacled nerd with a fortune from his family's watch business — a performance of gentle weirdness that builds to a non-sex sex scene with some of the most inspired nerdy-dirty language I've ever heard.]]></paragraph>
+        <paragraph num="9"><![CDATA[I've missed gonzo. I don't mean fake gonzo, like the Judd Apatow movies in which child-men act out before they have to grow up, or swill like the Hangover films that reinforce American males' sense of entitlement. Bad Teacher, like Bad Santa, is blessedly free of redeeming social value. [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+      <textWithHtml>
+        <paragraph num="1"><![CDATA[<em>Bad Teacher</em> is a raunchy comedy about a conniving alcoholic druggie middle-school teacher played by Cameron Diaz who'll do anything to get the money to buy herself some bigger breasts so she can marry rich and not have to do the job at which she's, yes, bad. How bad is she?]]></paragraph>
+        <paragraph num="2"><![CDATA[I won't give away specifics, but every scene is contrived to make you say, "That is a bad teacher" — much as another R-rated film about someone not living up to the responsibility of interacting with children, <em>Bad Santa</em>, made you say, "That is a bad Santa."]]></paragraph>
+        <paragraph num="3"><![CDATA[So, the movie is one broad joke on the theme of how-bad-is-she repeated over and over, and most of the early reviews have complained about its coarseness and vulgarity. My response is easily stated: Get off your high horses. <em>Bad Teacher</em> made me laugh harder than anything this year outside Broadway's <em>The Book of Mormon</em>, which is filthier and still won the Tony.]]></paragraph>
+        <paragraph num="4"><![CDATA[As Elizabeth Halsey, Cameron Diaz does not walk when she can sashay, and almost always in short, tight dresses and stiletto heels. She looks, frankly, used — dissipated, hungover, her make-up smeared, her wide mouth looking unusually lewd. She's wonderful — but then, she's often wonderful, despite recent high-profile embarrassments like <em>Knight and Day</em> opposite Tom Cruise mugging it up and trying too hard to be funny. Diaz doesn't need to mug. Her great big features are gorgeous and clown-like at once.]]></paragraph>
+        <paragraph num="5"><![CDATA[As <em>Bad Teacher</em> opens, Elizabeth is departing John Adams Middle School, where she has been teaching for a year without even learning the names of her students — a matter of crushing indifference to her given her coming marriage to a rich boy. Alas, he dumps her — or, rather, his mother insists he dump her for racking up staggering monthly credit card bills. So it's back to bad teaching.]]></paragraph>
+        <paragraph num="6"><![CDATA[On her return to the school in the fall, Elizabeth comes face to face with her opposite number played by the brilliant British actress Lucy Punch, often a sexpot in movies but here the soul of primness. To save face, Elizabeth concocts an elaborate story about catching her fiance in bed with another man — a lie that evolves the more she tells it. You can imagine. Or maybe not.]]></paragraph>
+        <paragraph num="7"><![CDATA[What <em>Bad Teacher</em> most reminds me of is old Bill Murray comedies like <em>Stripes</em> or <em>Meatballs</em>, but with a woman talking dirty and using everything in her arsenal to get what she wants — cheating, lying, and being incorrigibly sleazy and opportunistic in the great American degenerate movie huckster tradition. There's a Bill Murray figure here, too, a pudgy pothead gym teacher played by Jason Segel, who watches her with amusement, admiration and unconcealed lust. One thing, though: As taken as he is by her gonzo ways, he doesn't collude in her bad teaching. He thinks she should do something else. Although Elizabeth isn't punished for breaking almost every law there is, ethical and legal, she's not rewarded either. Where she ends up is very satisfying — even touching.]]></paragraph>
+        <paragraph num="8"><![CDATA[Director Jake Kasdan loves his actors and gives them room to breathe — and, in some cases, hyperventilate. Along with sterling turns by Diaz, Segel, Lucy Punch and Phyllis Smith from <em>The Office</em> as Elizabeth's mousy colleague, Justin Timberlake defies expectations as an insipid little bespectacled nerd with a fortune from his family's watch business — a performance of gentle weirdness that builds to a non-sex sex scene with some of the most inspired nerdy-dirty language I've ever heard.]]></paragraph>
+        <paragraph num="9"><![CDATA[I've missed gonzo. I don't mean fake gonzo, like the Judd Apatow movies in which child-men act out before they have to grow up, or swill like the <em>Hangover</em> films that reinforce American males' sense of entitlement. <em>Bad Teacher</em>, like <em>Bad Santa</em>, is blessedly free of redeeming social value.  <div class="fullattribution">Copyright 2011 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://metrics.npr.org/b/ss/nprapidev/5/1309060888?&gn=Class+Is+Dismissed%3A+%27Bad+Teacher%27+Is+Crude%2C+But+Fun&ev=event2&ch=4467349&h1=Fresh+Air+Reviews,Movie+Reviews,Movies,Arts+%26+Life&c3=D%3Dgn&v3=D%3Dgn&c4=137378586&c7=1045&v7=D%3Dc7&c18=1045&v18=D%3Dc18&c19=20110623&v19=D%3Dc19&c20=1&v20=D%3Dc20&c21=13&v21=D%3Dc2&c31=125638008,4467349&v31=D%3Dc31&c45=MDA1MzQxMTMyMDEyOTc4NzI0MTk0ZDBlNA001"/></div>]]></paragraph>
+      </textWithHtml>
+    </story>

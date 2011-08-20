@@ -1,0 +1,7 @@
+{% include "header.html" %}
+    <h1>{{title}}</h1>
+{% for yearmo in yearmos %}
+  <a href="{{yearmo.url}}">{{ yearmo.month }} {{ yearmo.year }}</a> ({{yearmo.count}}) {% if not forloop.last %}/{% endif %}
+{% endfor %}
+{% include "footer.html" %}
+

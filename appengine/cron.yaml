@@ -1,0 +1,4 @@
+cron:
+- description: fetch new stories
+  url: /backend/fetch_all
+  schedule: every 6 hours

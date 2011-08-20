@@ -1,0 +1,8 @@
+<h2 id="{{name|lower}}_filter">{{name}}</h2>
+<div id="{{name|lower}}_content">
+<ul>
+{% for i in iterable %}
+<li><a href="{{i.url}}">{{i.name}}</a></li>
+{% endfor %}
+</ul>
+</div>

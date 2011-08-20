@@ -1,0 +1,9 @@
+{% include "header.html" %}
+    <h1>{{title}}</h1>
+    <ul>
+      {% for story in stories %}
+        {% include "story_header_snippet.html" %}
+      {% endfor %}
+    </ul>
+{% include "footer.html" %}
+
